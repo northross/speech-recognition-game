@@ -1,0 +1,23 @@
+{
+  "name": "speech-recognition-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d speech-recognition-game"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/northross/speech-recognition-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/northross/speech-recognition-game/issues"
+  },
+  "homepage": "northross.github.io/speech-recognition-game",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
