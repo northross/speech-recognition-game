@@ -1,4 +1,4 @@
-# Speech Rcognition Number Guessing Game
+# Speech Recognition Number Guessing Game
 
 ### This project was created for the practice of using speech recognition API, implement speech recognition to listen to mic, and logic to test user input vs cpu generated desired result.
 
